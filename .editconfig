@@ -1,0 +1,10 @@
+# top-most EditorConfig file
+root = true
+
+[*.{js,ts}]
+indent_style = space
+indent_size = 2
+
+[*.{py}]
+indent_style = space
+indent_size = 4
